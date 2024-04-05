@@ -1,0 +1,34 @@
+[
+    {
+        "customerNumber": "12345678",
+        "firstName": "mahmoud",
+        "middleName": "mahmoud",
+        "lastName": "mahmoud",
+        "title": "Mr.",
+        "motherFirstName": "test",
+        "motherLastName": "test",
+        "gender": "Male",
+        "dateOfBirth": "1985-05-20",
+        "placeOfBirth": "sousse",
+        "mainNationality": "tn",
+        "otherNationalities": ["ci", "tn"],
+        "kycStatus": "Verified",
+        "email": "test.coris@gmail.com",
+        "phoneNumber": "+2164567890",
+        "country": "TN",
+        "address": "123 Main St",
+        "city": "Sousse",
+        "zipCode": "10001",
+        "profession": "Software Engineer",
+        "monthlyRevenue": 8000,
+        "maritalStatus": "Single",
+        "segmentCode": "001",
+        "customerType": "Individual",
+        "inscriptionDate": "2023-01-15",
+        "identityDocument": {
+            "docType": "Passport",
+            "docIdentifier": "ABC123456",
+            "docExpiryDate": "2028-05-20"
+        }
+    }
+]
